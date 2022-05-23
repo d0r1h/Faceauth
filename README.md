@@ -26,3 +26,8 @@ Aim of this project to build a Image classifier for identifying real vs fake hum
    * 228 fake and 284 real faces [validaton set]
 
     
+### Notebook:
+
+| Notebook |  Kaggle |
+| ------ |  ------ |
+| vgg | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/undersc0re/transfer-learning-vggx-64) |
